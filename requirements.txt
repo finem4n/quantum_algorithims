@@ -1,0 +1,7 @@
+qutechopenql==0.9.0
+plumbum
+wheel
+pytest
+numpy
+libqasm
+qxelarator==0.4.2
